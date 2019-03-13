@@ -1,1 +1,1 @@
-# ML-marketing-models
+# MachineLearning-Models
